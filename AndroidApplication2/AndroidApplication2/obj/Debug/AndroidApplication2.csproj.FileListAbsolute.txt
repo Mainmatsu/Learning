@@ -1,0 +1,14 @@
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\bin\Debug\AndroidApplication2.dll
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\bin\Debug\AndroidApplication2.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\bin\Debug\AndroidApplication2.dll.mdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\bin\Debug\AndroidApplication2.AndroidApplication2.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\bin\Debug\AndroidApplication2.AndroidApplication2-Signed.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\AndroidApplication2.dll
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\AndroidApplication2.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\android\bin\AndroidApplication2.AndroidApplication2.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\res\layout\main.axml
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\res\values\strings.xml
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\res\drawable\icon.png
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\R.cs.flag
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication2\AndroidApplication2\obj\Debug\uploadflags.txt

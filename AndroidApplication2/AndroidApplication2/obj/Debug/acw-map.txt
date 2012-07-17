@@ -1,0 +1,1 @@
+AndroidApplication2.Activity1;androidapplication2.Activity1

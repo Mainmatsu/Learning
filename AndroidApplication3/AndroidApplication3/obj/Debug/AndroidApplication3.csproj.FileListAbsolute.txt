@@ -1,0 +1,14 @@
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\bin\Debug\AndroidApplication3.dll
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\bin\Debug\AndroidApplication3.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\bin\Debug\AndroidApplication3.dll.mdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\bin\Debug\AndroidApplication3.AndroidApplication3.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\bin\Debug\AndroidApplication3.AndroidApplication3-Signed.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\AndroidApplication3.dll
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\AndroidApplication3.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\android\bin\AndroidApplication3.AndroidApplication3.apk
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\res\layout\main.axml
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\res\values\strings.xml
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\res\drawable\icon.png
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\R.cs.flag
+C:\Users\Saymon\Documents\GitHub\Learning\AndroidApplication3\AndroidApplication3\obj\Debug\uploadflags.txt

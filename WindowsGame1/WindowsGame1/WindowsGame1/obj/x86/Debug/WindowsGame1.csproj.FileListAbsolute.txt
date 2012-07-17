@@ -1,0 +1,9 @@
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\logo.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\logo_trans.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\threerings.xnb

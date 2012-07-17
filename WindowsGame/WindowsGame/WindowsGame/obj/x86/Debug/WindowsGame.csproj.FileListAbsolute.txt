@@ -1,0 +1,15 @@
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\WindowsGame.exe
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\WindowsGame.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\obj\x86\Debug\WindowsGame.exe
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\obj\x86\Debug\WindowsGame.pdb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\Mouse.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\1.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\1.wma
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\2.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\3.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\4.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\5.xnb
+C:\Users\Saymon\Documents\GitHub\Learning\WindowsGame\WindowsGame\WindowsGame\bin\x86\Debug\Content\6.xnb
